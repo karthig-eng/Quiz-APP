@@ -168,8 +168,7 @@ body {
 /*Quiz Options*/
 #quiz #optionList {
     height: 400px;
-    width;
-    100%;
+    width: 100%;
     position: absolute;
     top: 160px;
 }
