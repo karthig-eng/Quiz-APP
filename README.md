@@ -9,7 +9,7 @@
  <li>CSS3(Style/Presentation)</li>
  <li>JavaScript(Logic for selecting the answer and for the result)</li>
 <h2>Screen Shots</h2>
-![Calculator](https://user-images.githubusercontent.com/72998655/134797902-e72dba1f-e5a0-44ff-ad78-e7b20b9261ab.png)
+![Quiz App](https://user-images.githubusercontent.com/72998655/134799145-a5b61967-69ad-4e8e-95d7-377a834b2fe2.png)
 <h2>Author</h2>
 <h3 >**Karthiga Rajkumar**</h3>
 
