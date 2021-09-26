@@ -1,8 +1,8 @@
 
 <h1 align="center">Quiz App</h1>
- [Link ]( https://karthig-eng.github.io/Calculator/)
+ [Link ](https://karthig-eng.github.io/Quiz-APP/)
  <h2 >Description</h2>
- <p aligh="justify">This is a simple calculator functionality achieved using Javascript. The logic is very simple with the minimum lines of code possible.</p>
+ <p aligh="justify">This is a Quiz App. It tests the Knowledge in Web Development.Once the User choose the Answer. It cannot be undone.Only 20 seconds given for Each Question.The User will get the Points on the basis of Correct Answer. The User cannot Exit the quiz in between.These Functionalities' are achieved using JavaScript.</p>
  <h2>Built With</h2>
  <ul>
  <li>HTML5</li>
